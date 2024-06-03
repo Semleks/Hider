@@ -1,9 +1,9 @@
 # Hider
 Open source Hider for Minecraft
 
-| EN |           |              RU |
-| -------------- | -------------------------------------------------- ---------------- |
-|                | RU [русский](https://github.com/Semleks/Hider/blob/main/README.md) |
+| EN  |                         RU                                         |
+| -------------- | ------------------------------------------------------------------ |
+|  [EN](https://github.com/Semleks/Hider/blob/main/README_EN.md)            | RU [русский](https://github.com/Semleks/Hider/blob/main/README.md) |
 
 # OPERATING SYSTEMS
 - Windows 10/11
