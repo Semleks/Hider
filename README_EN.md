@@ -1,7 +1,7 @@
 # Hider
 Open source Hider for Minecraft
 
-| EN |                         RU |
+| EN |           |              RU |
 | -------------- | -------------------------------------------------- ---------------- |
 |                | RU [русский](https://github.com/Semleks/Hider/blob/main/README.md) |
 
